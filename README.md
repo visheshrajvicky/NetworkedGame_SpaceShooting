@@ -18,6 +18,8 @@ Step 4: After SignIN successfull You can start the game by pressing "SPACE"
 Step 5: To Quit the game press "Q".
 Step 6: To add player in the game open another Terminal tab and run the client.py again.
 
+You can move the player with arrow keys.
+
 ----------------------------------------------------------------------------------------------------
 1. Max two player can play this game at a time.
 2. When You start the game you will see two player ship but One of them does not move untill another 
